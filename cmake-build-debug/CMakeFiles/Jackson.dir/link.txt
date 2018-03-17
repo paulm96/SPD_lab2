@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Jackson.dir/main.cpp.o  -o Jackson 
